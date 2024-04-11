@@ -1345,7 +1345,7 @@
         "Settings.AudioInputFilteringSettings.NormalizationThreshold.Description": "Dieser Schwellwert bestimmt, ab welcher Lautstärke ein aufgenommener Ton weiter verstärkt wird. Wenn Ihre normale Sprache zu leise ist und nicht verstärkt wird, verringern Sie diesen Wert. Wenn leise Geräusche verstärkt werden, ist dieser Wert zu klein.",
 
         "Settings.AudioInputFilteringSettings.UseNoiseSuppression": "Rauschunterdrückungsfilter (RNNoise)",
-        "Settings.AudioInputFilteringSettings.UseNoiseSuppression.Description": "Diese Funktion verarbeitet das eingehende Tonsignal und filtert unerwünschte Geräusche heraus. Dies kann bei verrauschtem Mikrofon zu einer deutlich besseren Verständlichkeit Ihrer Sprache führen. Wir empfehlen ausdrücklich, diese Einstellung akiviert zu lassen. Allerdings können Geräusche herausgefiltert werden, wenn sie nicht als Sprache erkannt werden.",
+        "Settings.AudioInputFilteringSettings.UseNoiseSuppression.Description": "Diese Funktion verarbeitet das eingehende Tonsignal und filtert unerwünschte Geräusche heraus. Dies kann bei verrauschtem Mikrofon zu einer deutlich besseren Verständlichkeit Ihrer Sprache führen. Wir empfehlen ausdrücklich, diese Einstellung aktiviert zu lassen. Allerdings können Geräusche herausgefiltert werden, wenn sie nicht als Sprache erkannt werden.",
 
         "Settings.RealtimeNetworkingSettings.DisableLAN": "LAN deaktivieren",
         "Settings.RealtimeNetworkingSettings.DisableLAN.Description": "LAN deaktivieren",
